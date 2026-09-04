@@ -12,6 +12,13 @@
 ![](https://streak-stats.demolab.com/?user=Nitin7078&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nitin7078&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## ✨ Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nitin7078&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
